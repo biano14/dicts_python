@@ -16,12 +16,12 @@ usuario['Número'] = input('Informe o número do Endereço: ')
 usuario['Bairro'] = input('Informe o bairro do Endereço: ')
 usuario['Cidade'] = input('Informe a Cidade: ')
 usuario['Estado'] = input('Informe o Estado: ')
-usuario['Telefone'] = input('Informe o telefone: ')
-usuario['Celular'] = input('Informe o celular: ')
-usuario['Altura'] = input('Informe a altura: ')
-usuario['Peso'] = input('Informe o peso: ')
-usuario['Tipo Sanguineo'] = input('Informe seu tipo sanguineo: ')
-usuario['Cor'] = input ('Informe a cor favorita: ')
+usuario['Telefone'] = input('Informe o Telefone: ')
+usuario['Celular'] = input('Informe o Celular: ')
+usuario['Altura'] = input('Informe a Altura: ')
+usuario['Peso'] = input('Informe o Peso: ')
+usuario['Tipo Sanguineo'] = input('Informe seu Tipo Sanguineo: ')
+usuario['Cor'] = input ('Informe a Cor Favorita: ')
 
 #exigir o dicionario
 for chave in usuario:
